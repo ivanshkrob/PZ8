@@ -1,9 +1,9 @@
 # PZ8
-<img width="721" height="421" alt="Снимок экрана 2026-03-20 232426" src="https://github.com/user-attachments/assets/dbf52013-4461-43f9-9689-424545a2e6cb" />
-<img width="793" height="591" alt="Снимок экрана 2026-03-20 231835" src="https://github.com/user-attachments/assets/8e278800-3af0-4408-9c2f-84ef5a6a9c4f" />
-<img width="772" height="566" alt="Снимок экрана 2026-03-20 231927" src="https://github.com/user-attachments/assets/44b31e33-4959-4760-9492-d6a6e883519e" />
-<img width="775" height="726" alt="Снимок экрана 2026-03-20 232031" src="https://github.com/user-attachments/assets/d67077d9-cbf6-44bf-afba-7f086cadae8f" />
-<img width="785" height="767" alt="Снимок экрана 2026-03-20 232123" src="https://github.com/user-attachments/assets/d03f2632-9380-4382-b7ed-02ce318b896a" />
-<img width="780" height="735" alt="Снимок экрана 2026-03-20 232207" src="https://github.com/user-attachments/assets/e2c6280a-d478-4de6-9fea-cced06b04f44" />
-<img width="817" height="636" alt="Снимок экрана 2026-03-20 232243" src="https://github.com/user-attachments/assets/3ed6d58c-6f62-4f9a-8d4d-8aa7e7510493" />
-<img width="787" height="665" alt="Снимок экрана 2026-03-20 232406" src="https://github.com/user-attachments/assets/9992c5e5-48a4-4922-b299-bf9c0621b416" />
+<img width="1031" height="354" alt="image" src="https://github.com/user-attachments/assets/98bb5d08-5d32-4e42-ae05-01e0278d2c23" />
+<img width="1054" height="705" alt="image" src="https://github.com/user-attachments/assets/268b4195-cfdc-4635-99d1-12fb7cd6086f" />
+<img width="1064" height="755" alt="image" src="https://github.com/user-attachments/assets/4e7888ac-8227-4fd9-bf6a-7c2698f851fd" />
+<img width="1126" height="719" alt="image" src="https://github.com/user-attachments/assets/ef55ade2-d937-4a51-9677-471b8bdd542e" />
+<img width="1075" height="782" alt="image" src="https://github.com/user-attachments/assets/8b249bbc-0f56-4ffe-80f2-aeb8d727f0f8" />
+<img width="1115" height="747" alt="image" src="https://github.com/user-attachments/assets/a46730dc-8553-48fe-b89f-46d2f5cfa0eb" />
+<img width="1108" height="792" alt="image" src="https://github.com/user-attachments/assets/363b1a27-0365-4e19-999a-beaffd5191b6" />
+<img width="1043" height="598" alt="image" src="https://github.com/user-attachments/assets/fc83a8e4-de15-487c-8f8f-ebc1ed9e0bff" />
